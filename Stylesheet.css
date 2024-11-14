@@ -1,0 +1,42 @@
+body{
+  background:url(starbuks.jfif) no-repeat  top right;
+  background-color:#1B4332 ;
+}
+h1{
+  color: #95D5B2;
+  font-family: Verdana, "Verdana neue", sans-serif;
+  font-size: 35pt;
+  padding: 10px;
+}
+h2, h3{
+  color: #40916C;
+  font-family: Verdana, "Verdana neue", sans-serif;
+  font-size: 20pt;
+  padding: 6px;
+}
+p{
+  color: #52B788;
+ font-family: Verdana, "Verdana neue", sans-serif;
+  font-size: 15pt;
+  padding: 4px;
+  align-content: center;
+}
+img: hover{
+transform: scale(1.5);
+}
+a{
+  text-decoration: none;
+  color: #081C15;
+  margin: 15px;
+  font-size: 25px;
+}
+a: hover{
+color: #2D6A4F;
+}
+table{
+  width:  100%;
+  text-align: center;
+}
+td{
+  vertical-align: middle;
+}
